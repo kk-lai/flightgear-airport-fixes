@@ -12,6 +12,6 @@ To Do:
 - Add taxiways
 
 Data Source:
-DEM - SRTMGL3v003 
-Shape files - Extract from btg files of TerraSync
-Buildings, Roads, Objects: TerraSync
+- DEM : SRTMGL3v003 
+- Shape files : Extract from btg files of TerraSync
+- Buildings, Roads, Objects: TerraSync
